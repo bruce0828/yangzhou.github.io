@@ -1,4 +1,4 @@
-# academic
+# academic yang zhou
 
 ### A Jekyll theme for academia
 
